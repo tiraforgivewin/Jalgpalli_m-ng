@@ -25,7 +25,7 @@ public class Team
                 );
         }
     }
-
+    //
     public void AddPlayer(Player player)
     {
         if (player.Team != null) return;
